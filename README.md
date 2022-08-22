@@ -1,5 +1,6 @@
+<meta name="google-site-verification" content="Q2FU1uHVzQiLvIjD7gV9bAsJAr9W5FZv_SAsGRUxp7Y" />
 # Planets-Journal-Club-UCI
-google-site-verification: googlea0370aa5dba37f2d.html
+
 
 Date             | Presenter(s)     |  Topic(s)        |  Paper Link    |
 | ---------------  | ---------------- | ---------------- | ------------- |
