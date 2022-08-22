@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="Q2FU1uHVzQiLvIjD7gV9bAsJAr9W5FZv_SAsGRUxp7Y" />
 # Planets-Journal-Club-UCI
 
 
